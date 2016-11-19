@@ -1,0 +1,77 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jbf.com" resolutions="1x" timestamp="1479589472796">
+  <folder name="css">
+    <file name="site_global.css" crc="460931967"/>
+    <file name="master_a-master.css" crc="297599376" ref="article-3:blog-root:article-4:article-1:blog-template:article-2:programs:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4242197903" ref="article-3:blog-root:article-4:article-1:blog-template:article-2:programs:index"/>
+    <file name="article-3.css" crc="3993205146" ref="article-3"/>
+    <file name="nomq_article-3.css" crc="417631549" ref="article-3"/>
+    <file name="blog-root.css" crc="74482985" ref="blog-root"/>
+    <file name="nomq_blog-root.css" crc="112869641" ref="blog-root"/>
+    <file name="article-4.css" crc="3959781628" ref="article-4"/>
+    <file name="nomq_article-4.css" crc="3964101629" ref="article-4"/>
+    <file name="article-1.css" crc="4130858516" ref="article-1"/>
+    <file name="nomq_article-1.css" crc="253284115" ref="article-1"/>
+    <file name="blog-template.css" crc="3802253357" ref="blog-template"/>
+    <file name="nomq_blog-template.css" crc="425658655" ref="blog-template"/>
+    <file name="article-2.css" crc="502782977" ref="article-2"/>
+    <file name="nomq_article-2.css" crc="410512348" ref="article-2"/>
+    <file name="programs.css" crc="397957902" ref="programs"/>
+    <file name="nomq_programs.css" crc="3821838728" ref="programs"/>
+    <file name="index.css" crc="3827341496" ref="index"/>
+    <file name="nomq_index.css" crc="438687866" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="museutils.js" crc="163421577" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="whatinput.js" crc="86476730" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="museconfig.js" crc="36584860" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:programs:blog-root:article-1:blog-template"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="webpro.js" crc="3848665353" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u960.php" crc="101768132" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="form-u568.php" crc="3937674110" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="require.js" crc="244322403" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:programs:blog-root:article-1:article-2:article-3:article-4:blog-template"/>
+    <file name="bg 1.jpg" crc="3941383121" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index:programs:blog-root:article-1"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index:programs:blog-root:article-1"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index:programs:blog-root:article-1"/>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index:programs:blog-root:article-1"/>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index:programs:blog-root:article-1"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index:programs:blog-root:article-1"/>
+    <file name="ig buttons.svg" crc="4280504992" ref="index:programs:blog-root:article-1"/>
+    <file name="ig buttons_poster_u5766.png" crc="3795384895" ref="index:programs:blog-root:article-1"/>
+    <file name="twitter buttons.svg" crc="4156617956" ref="index:programs:blog-root:article-1"/>
+    <file name="twitter buttons_poster_u5758.png" crc="3783645917" ref="index:programs:blog-root:article-1"/>
+    <file name="youtube buttons.svg" crc="442213535" ref="index:programs:blog-root:article-1"/>
+    <file name="youtube buttons_poster_u5750.png" crc="454553917" ref="index:programs:blog-root:article-1"/>
+    <file name="photo-1463680942456-e4230dbeaec7.jpg" crc="389269809" ref="programs"/>
+    <file name="photo-1463680942456-e4230dbeaec7-u1088-fr.jpg" crc="3859369940" ref="programs"/>
+    <file name="photo-1463680942456-e4230dbeaec7-u1088-fr2.jpg" crc="59882392" ref="programs"/>
+    <file name="photo-1463680942456-e4230dbeaec7-u1088-fr3.jpg" crc="524635055" ref="programs"/>
+    <file name="photo-1456213971271-c9b01add56d8.jpg" crc="414108355" ref="blog-root:article-1:blog-template"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1297-fr.jpg" crc="3858845143" ref="blog-root"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1297-fr2.jpg" crc="204291275" ref="blog-root"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1297-fr3.jpg" crc="250426859" ref="blog-root"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1297-fr4.jpg" crc="3761758649" ref="blog-root"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1860-fr.jpg" crc="3931908102" ref="article-1:blog-template"/>
+    <file name="photo-1456213971271-c9b01add56d8-u1860-fr2.jpg" crc="71082370" ref="article-1:blog-template"/>
+  </folder>
+  <file name="index.html" crc="3973295018" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="programs.html" crc="4099122927" seo="true" mt="1479589433260" redirect="true"/>
+  <file name="blog-root.html" crc="4271211693" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="article-1.html" crc="211236797" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="article-2.html" crc="3983159004" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="article-3.html" crc="4154410028" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="article-4.html" crc="4004400008" seo="true" mt="1479589246775" redirect="true"/>
+  <file name="blog-template.html" crc="112288472" seo="true" mt="1479589246775" redirect="true"/>
+</manifest>
