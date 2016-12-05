@@ -62,10 +62,10 @@ $form = array(
 		'custom_U1170' => array(
 			'order' => 4,
 			'type' => 'checkbox',
-			'label' => 'Yes, you can sell my email to third parties',
+			'label' => 'I\'d like to receive a weekly newsletter',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Yes, you can sell my email to third parties\' is required.'
+				'required' => 'Field \'I\'d like to receive a weekly newsletter\' is required.'
 			)
 		)
 	)
